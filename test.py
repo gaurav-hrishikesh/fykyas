@@ -8,4 +8,4 @@ def add_num(a,    b) -> str :
   return a+b
 
 def sub_num(      c,d) -> int:
-  return a-b
+  return c-d
